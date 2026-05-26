@@ -3,42 +3,12 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="registerservices" />
-      </profile>
-      <profile name="Annotation profile for UserServices" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="false">
-          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
-        </processorPath>
-<<<<<<< HEAD
-        <module name="apiGateway" />
-        <module name="ratingservices" />
-        <module name="UserServices" />
-        <module name="hotelservices" />
-=======
-        <module name="hotelservices" />
-        <module name="ratingservices" />
-        <module name="UserServices" />
->>>>>>> cec25b9679a0a34bd7cbd4c1b27385cfa6e236a2
-      </profile>
     </annotationProcessing>
-  </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="UserServices" options="-parameters" />
-<<<<<<< HEAD
-      <module name="apiGateway" options="-parameters" />
-=======
->>>>>>> cec25b9679a0a34bd7cbd4c1b27385cfa6e236a2
-      <module name="hotelservices" options="-parameters" />
-      <module name="ratingservices" options="-parameters" />
-      <module name="registerservices" options="-parameters" />
-    </option>
+    <bytecodeTargetLevel>
+      <module name="hotelservices" target="17" />
+      <module name="ratingservices" target="17" />
+      <module name="registerservices" target="17" />
+      <module name="UserServices" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>

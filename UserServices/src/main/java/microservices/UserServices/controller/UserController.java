@@ -13,11 +13,11 @@ import java.util.List;
 @RequestMapping("/users")
 public class UserController {
 
-    @Autowired
+    @Autowiredt
     UserServices userServices;
     @GetMapping("/test")
     public String test() {
-        return "working";
+        return "project is working";
     }
 @PostMapping
     public ResponseEntity<User> createUser(@RequestBody User user)
