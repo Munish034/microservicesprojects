@@ -1,16 +1,12 @@
 server:
-<<<<<<< HEAD
-  port: 8083
-=======
-  port: 8082
->>>>>>> cec25b9679a0a34bd7cbd4c1b27385cfa6e236a2
+  port: 8081
 
 spring:
   application:
-    name: RatingSERVICES
+    name: UserSERVICES
 
   datasource:
-    url: jdbc:mysql://localhost:3306/msratingservices
+    url: jdbc:mysql://localhost:3306/msuserservices
     username: root
     password: nic@123
     driver-class-name: com.mysql.cj.jdbc.Driver
