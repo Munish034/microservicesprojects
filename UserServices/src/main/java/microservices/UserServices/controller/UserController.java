@@ -17,7 +17,7 @@ public class UserController {
     UserServices userServices;
     @GetMapping("/test")
     public String test() {
-        return "project is working";
+        return "project is good working";
     }
 @PostMapping
     public ResponseEntity<User> createUser(@RequestBody User user)

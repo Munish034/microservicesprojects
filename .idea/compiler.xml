@@ -9,7 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="configServer" />
       </profile>
-      <profile name="Annotation profile for apiGateway" enabled="true">
+      <profile name="Annotation profile for hotelservices" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
@@ -17,10 +17,10 @@
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
         </processorPath>
         <module name="apiGateway" />
+        <module name="hotelservices" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="hotelservices" target="17" />
       <module name="ratingservices" target="17" />
       <module name="registerservices" target="17" />
       <module name="UserServices" target="17" />
@@ -30,6 +30,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="apiGateway" options="-parameters" />
       <module name="configServer" options="-parameters" />
+      <module name="hotelservices" options="-parameters" />
     </option>
   </component>
 </project>
