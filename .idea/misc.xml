@@ -4,19 +4,14 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/UserServices/pom.xml" />
-        <option value="$PROJECT_DIR$/registerservices/pom.xml" />
-        <option value="$PROJECT_DIR$/ratingservices/pom.xml" />
-        <option value="$PROJECT_DIR$/hotelservices/pom.xml" />
-        <option value="$PROJECT_DIR$/registerservices/registerservices/pom.xml" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/apiGateway/pom.xml" />
-=======
->>>>>>> cec25b9679a0a34bd7cbd4c1b27385cfa6e236a2
+        <option value="$PROJECT_DIR$/configServer/pom.xml" />
+        <option value="$PROJECT_DIR$/hotelservices/pom.xml" />
+        <option value="$PROJECT_DIR$/ratingservices/pom.xml" />
+        <option value="$PROJECT_DIR$/registerservices/pom.xml" />
+        <option value="$PROJECT_DIR$/UserServices/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/out" />
-  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
 </project>
