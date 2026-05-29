@@ -9,10 +9,8 @@
         <option value="$PROJECT_DIR$/ratingservices/pom.xml" />
         <option value="$PROJECT_DIR$/hotelservices/pom.xml" />
         <option value="$PROJECT_DIR$/registerservices/registerservices/pom.xml" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/apiGateway/pom.xml" />
-=======
->>>>>>> cec25b9679a0a34bd7cbd4c1b27385cfa6e236a2
+        <option value="$PROJECT_DIR$/configServer/pom.xml" />
       </list>
     </option>
   </component>

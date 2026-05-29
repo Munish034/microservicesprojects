@@ -29,7 +29,7 @@ public class HotelController {
     }
     @GetMapping
     public  ResponseEntity<List<Hotel>> getAllhotels(){
-
+        System.out.println("testing");
         return  ResponseEntity.ok(hotelserviceImp.getAll());
     }
 
