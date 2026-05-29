@@ -41,7 +41,7 @@ return ResponseEntity.ok(responseuser);
     }
     public  ResponseEntity<User> userServiceBreakerFallback(String userid,Exception ex){
 
-        User user = User.builder().name("manish").about("java developer").email("email@").userid("12345").build();
+        User user = User.builder().name("manish").about("java developer").email("exceptions@").userid("12345").build();
 return  new ResponseEntity<>(user,HttpStatus.OK);
 
 

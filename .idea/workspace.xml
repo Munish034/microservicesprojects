@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ea0068-0f48-47cd-8da7-6a7badead8c8" name="Changes" comment="testing by munish">
-      <change afterPath="$PROJECT_DIR$/.gitignore.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserServices/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserServices/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserServices/src/main/java/microservices/UserServices/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserServices/src/main/java/microservices/UserServices/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserServices/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/UserServices/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/configServer/src/main/java/configServer/ConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/configServer/src/main/java/configServer/ConfigServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configServer/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/configServer/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotelservices/hotelservices/src/main/java/hotelservices/controller/HotelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotelservices/hotelservices/src/main/java/hotelservices/controller/HotelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratingservices/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ratingservices/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,18 +32,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Munish034"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Munish034&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Munish034/microservicesprojects.git",
-    "accountId": "a0fe9293-98db-4de0-82fb-2f562a6ee714"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Munish034/microservicesprojects.git&quot;,
+    &quot;accountId&quot;: &quot;a0fe9293-98db-4de0-82fb-2f562a6ee714&quot;
   }
-}]]></component>
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -58,23 +57,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.004978752500403" />
-      <entry key="MS500" value="1.3678846338648234" />
-      <entry key="S2" value="3.5117184477579273" />
-      <entry key="S5" value="8.28516294186078" />
-      <entry key="S10" value="14.687437381080255" />
-      <entry key="S30" value="29.774118791205144" />
-      <entry key="S60" value="42.13903900535855" />
-      <entry key="M2" value="53.49789939959976" />
-      <entry key="M5" value="63.44776203689095" />
-      <entry key="M10" value="67.49978650561968" />
-      <entry key="M15" value="68.94732694828569" />
-      <entry key="M30" value="70.44667739000988" />
-      <entry key="H1" value="71.21645332133244" />
-      <entry key="H2" value="71.60649046170757" />
-      <entry key="H4" value="71.81252108538517" />
-      <entry key="D1" value="99.5266972067328" />
-      <entry key="W1" value="300.36352999175523" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.000000000002465" />
+      <entry key="M10" value="1.0000121769545323" />
+      <entry key="M15" value="1.0022464454276838" />
+      <entry key="M30" value="1.4285400856190082" />
+      <entry key="H1" value="6.981867876994395" />
+      <entry key="H2" value="23.400351006136937" />
+      <entry key="H4" value="44.3754340160698" />
+      <entry key="D1" value="100.9004203360318" />
+      <entry key="W1" value="308.4646901127162" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -82,37 +81,37 @@
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="2.919054885056205E-166" />
-      <entry key="M10" value="2.348429942618286E-83" />
-      <entry key="M15" value="1.3941749131085311E-55" />
-      <entry key="M30" value="1.100949091362262E-27" />
-      <entry key="H1" value="1.0751333564503056E-13" />
-      <entry key="H2" value="1.0826508573020197E-6" />
-      <entry key="H4" value="0.0035066411375162055" />
-      <entry key="D1" value="4.4150714717205615" />
-      <entry key="W1" value="58.884152492506715" />
+      <entry key="S30" value="6.764542639992689E-129" />
+      <entry key="S60" value="1.6356389803453773E-64" />
+      <entry key="M2" value="2.5542294743805436E-32" />
+      <entry key="M5" value="5.296551563151327E-13" />
+      <entry key="M10" value="1.4554664528621761E-6" />
+      <entry key="M15" value="2.0386814918518879E-4" />
+      <entry key="M30" value="0.028556302818116917" />
+      <entry key="H1" value="0.33797167840576775" />
+      <entry key="H2" value="1.162706465832686" />
+      <entry key="H4" value="2.1583788505633548" />
+      <entry key="D1" value="7.560011836986798" />
+      <entry key="W1" value="61.8996884439572" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.050418693994490026" />
-      <entry key="MS500" value="0.6528927662892924" />
-      <entry key="S2" value="3.1298202698820967" />
-      <entry key="S5" value="8.070522555959823" />
-      <entry key="S10" value="14.527048373688118" />
-      <entry key="S30" value="29.67363991835935" />
-      <entry key="S60" value="42.07345236662618" />
-      <entry key="M2" value="53.45927562517525" />
-      <entry key="M5" value="63.43050494372649" />
-      <entry key="M10" value="67.49081265456468" />
-      <entry key="M15" value="68.94126393037088" />
-      <entry key="M30" value="70.44360467726408" />
-      <entry key="H1" value="71.2149064756633" />
-      <entry key="H2" value="71.60571547472277" />
-      <entry key="H4" value="71.81563823106697" />
-      <entry key="D1" value="103.94150064966509" />
-      <entry key="W1" value="359.24714318691144" />
+      <entry key="MS100" value="0.0068484821977815215" />
+      <entry key="MS500" value="0.36907860142070825" />
+      <entry key="S2" value="0.7794346643256944" />
+      <entry key="S5" value="0.9051319321151962" />
+      <entry key="S10" value="0.9513842189752761" />
+      <entry key="S30" value="0.9835247980117546" />
+      <entry key="S60" value="0.9917281875654007" />
+      <entry key="M2" value="0.9958555053648098" />
+      <entry key="M5" value="0.9983401363601979" />
+      <entry key="M10" value="0.9991833538863261" />
+      <entry key="M15" value="1.0018964821510021" />
+      <entry key="M30" value="1.4567980289012723" />
+      <entry key="H1" value="7.319554264068496" />
+      <entry key="H2" value="24.56271619851849" />
+      <entry key="H4" value="46.533515839230766" />
+      <entry key="D1" value="108.46016915700324" />
+      <entry key="W1" value="370.3638442063107" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -127,33 +126,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "Spring Boot.ApiGatewayApplication.executor": "Run",
-    "Spring Boot.ConfigServerApplication.executor": "Run",
-    "Spring Boot.HotelservicesApplication.executor": "Run",
-    "Spring Boot.RatingservicesApplication.executor": "Run",
-    "Spring Boot.RegisterservicesApplication.executor": "Run",
-    "Spring Boot.UserServicesApplication.executor": "Run",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "Merging main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ApiGatewayApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ConfigServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.HotelservicesApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.RatingservicesApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.RegisterservicesApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.UserServicesApplication.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/microservices&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="microservices.UserServices.entities" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigServerApplication">
+  <component name="RunManager" selected="Spring Boot.ApiGatewayApplication">
     <configuration name="RegisterservicesApplication" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="registerservices.registerservices.RegisterservicesApplication" />
       <module name="registerservices" />
@@ -174,20 +179,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="apiGateway.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
-      <module name="configServer" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="configServer.ConfigServerApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="configServer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,6 +214,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RegisterservicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="registerservices" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="registerservices.registerservices.RegisterservicesApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="registerservices.registerservices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
       <module name="UserServices" />
@@ -239,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ConfigServerApplication" />
+        <item itemvalue="Spring Boot.UserServicesApplication" />
         <item itemvalue="Spring Boot.ApiGatewayApplication" />
         <item itemvalue="Spring Boot.RatingservicesApplication" />
         <item itemvalue="Spring Boot.HotelservicesApplication" />
-        <item itemvalue="Spring Boot.UserServicesApplication" />
+        <item itemvalue="Spring Boot.RegisterservicesApplication" />
       </list>
     </recent_temporary>
   </component>
