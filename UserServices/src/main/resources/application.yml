@@ -39,7 +39,6 @@ management:
   endpoint:
     health:
       show-details: always
-
 resilience4j:
   circuitbreaker:
     instances:
@@ -52,4 +51,7 @@ resilience4j:
         wait-duration-in-open-state: 5s
         permitted-number-of-calls-in-half-open-state: 3
         sliding-window-size: 10
-        sliding-window-type: count_based
+        sliding-window-type: count-based
+
+
+
