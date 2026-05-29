@@ -1,5 +1,6 @@
 package microservices.UserServices.controller;
 
+import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
 import microservices.UserServices.entities.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -11,13 +12,16 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/users")
+
 public class UserController {
 
     @Autowired
     UserServices userServices;
+
+
     @GetMapping("/test")
     public String test() {
-        return "project is working";
+        return "project is good working";
     }
 @PostMapping
     public ResponseEntity<User> createUser(@RequestBody User user)
@@ -28,10 +32,18 @@ public class UserController {
 
     }
     @GetMapping("/{userid}")
+    @CircuitBreaker(name = "userServiceBreaker",fallbackMethod = "userServiceBreakerFallback")
     public ResponseEntity<User> getUser(@PathVariable  String userid){
 
         User responseuser = userServices.getUser(userid);
 return ResponseEntity.ok(responseuser);
+
+    }
+    public  ResponseEntity<User> userServiceBreakerFallback(String userid,Exception ex){
+
+        User user = User.builder().name("manish").about("java developer").email("email@").userid("12345").build();
+return  new ResponseEntity<>(user,HttpStatus.OK);
+
 
     }
     @GetMapping
