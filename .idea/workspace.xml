@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ea0068-0f48-47cd-8da7-6a7badead8c8" name="Changes" comment="testing by munish">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserServices/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserServices/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserServices/src/main/java/microservices/UserServices/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserServices/src/main/java/microservices/UserServices/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserServices/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/UserServices/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,61 +53,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0019531273549296" />
-      <entry key="MS500" value="1.3424681771219507" />
-      <entry key="S2" value="4.10680508921316" />
-      <entry key="S5" value="10.038324019605405" />
-      <entry key="S10" value="17.685109227297797" />
-      <entry key="S30" value="30.50670624390326" />
-      <entry key="S60" value="36.97734532480136" />
-      <entry key="M2" value="42.73421930547468" />
-      <entry key="M5" value="52.89985562516035" />
-      <entry key="M10" value="66.08531205923084" />
-      <entry key="M15" value="74.59472805374774" />
-      <entry key="M30" value="87.15710501066232" />
-      <entry key="H1" value="98.1247306277007" />
-      <entry key="H2" value="115.28904453442163" />
-      <entry key="H4" value="138.44771659209502" />
-      <entry key="D1" value="202.04253744284773" />
-      <entry key="W1" value="411.89115283168013" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000000002" />
+      <entry key="S5" value="1.0000005380337464" />
+      <entry key="S10" value="1.0007335078367043" />
+      <entry key="S30" value="1.0901944965385886" />
+      <entry key="S60" value="1.303374958475457" />
+      <entry key="M2" value="1.6095147804027103" />
+      <entry key="M5" value="2.5200379441565977" />
+      <entry key="M10" value="4.186859782472926" />
+      <entry key="M15" value="5.510975699253742" />
+      <entry key="M30" value="8.2525130861545" />
+      <entry key="H1" value="11.185101664359662" />
+      <entry key="H2" value="13.56900239064971" />
+      <entry key="H4" value="15.553062573893172" />
+      <entry key="D1" value="47.50737053551541" />
+      <entry key="W1" value="328.5259152411972" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="2.5E-322" />
-      <entry key="MS500" value="4.8950980114399274E-65" />
-      <entry key="S2" value="1.1688608267257602E-16" />
-      <entry key="S5" value="7.110256113056443E-7" />
-      <entry key="S10" value="0.001566172008591521" />
-      <entry key="S30" value="0.41541024889547645" />
-      <entry key="S60" value="2.071246139972657" />
-      <entry key="M2" value="4.95840140315022" />
-      <entry key="M5" value="9.107266151063234" />
-      <entry key="M10" value="11.898775299658219" />
-      <entry key="M15" value="13.231735138872212" />
-      <entry key="M30" value="14.896348553106154" />
-      <entry key="H1" value="16.0279142770712" />
-      <entry key="H2" value="17.19220488274944" />
-      <entry key="H4" value="18.463078834680495" />
-      <entry key="D1" value="24.255385336364903" />
-      <entry key="W1" value="78.58989139489971" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="5.860979931247719E-180" />
+      <entry key="S5" value="2.0697143892854246E-72" />
+      <entry key="S10" value="1.6272396098720947E-36" />
+      <entry key="S30" value="1.724884825188616E-12" />
+      <entry key="S60" value="1.982689864786176E-6" />
+      <entry key="M2" value="0.0024628553226938984" />
+      <entry key="M5" value="0.19936891338445215" />
+      <entry key="M10" value="0.8863628509528436" />
+      <entry key="M15" value="1.4622839655902815" />
+      <entry key="M30" value="2.4164635345453034" />
+      <entry key="H1" value="3.1083408174594696" />
+      <entry key="H2" value="3.5259117426625273" />
+      <entry key="H4" value="3.7554338056085386" />
+      <entry key="D1" value="5.449598067194652" />
+      <entry key="W1" value="56.75803013460764" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.04607176889241974" />
-      <entry key="MS500" value="0.6556298668323574" />
-      <entry key="S2" value="3.7169373785400888" />
-      <entry key="S5" value="9.838478469257984" />
-      <entry key="S10" value="17.5739766529928" />
-      <entry key="S30" value="30.86201739494486" />
-      <entry key="S60" value="38.97979459283806" />
-      <entry key="M2" value="47.622514773018786" />
-      <entry key="M5" value="61.954988369323914" />
-      <entry key="M10" value="77.94717002962723" />
-      <entry key="M15" value="87.79782489683207" />
-      <entry key="M30" value="102.03638088898145" />
-      <entry key="H1" value="114.14315811752135" />
-      <entry key="H2" value="132.47610169210515" />
-      <entry key="H4" value="156.9080288314149" />
-      <entry key="D1" value="226.29723859530185" />
-      <entry key="W1" value="490.48045082419264" />
+      <entry key="MS100" value="0.20166043980553158" />
+      <entry key="MS500" value="0.7259791399519472" />
+      <entry key="S2" value="0.9230623462555855" />
+      <entry key="S5" value="0.9684844560100185" />
+      <entry key="S10" value="0.9848482468727519" />
+      <entry key="S30" value="1.084827727648089" />
+      <entry key="S60" value="1.300638024538791" />
+      <entry key="M2" value="1.6105293328116932" />
+      <entry key="M5" value="2.7173928157083296" />
+      <entry key="M10" value="5.0695786986059765" />
+      <entry key="M15" value="6.969127425969167" />
+      <entry key="M30" value="10.664909501670973" />
+      <entry key="H1" value="14.29025468957484" />
+      <entry key="H2" value="17.092838846867906" />
+      <entry key="H4" value="19.30729779886409" />
+      <entry key="D1" value="52.95668726653382" />
+      <entry key="W1" value="385.2835103556716" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -151,27 +154,13 @@
       <recent name="microservices.UserServices.entities" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigServerApplication">
+  <component name="RunManager" selected="Spring Boot.HotelservicesApplication">
     <configuration name="RegisterservicesApplication" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="registerservices.registerservices.RegisterservicesApplication" />
       <module name="registerservices" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="registerservices.registerservices.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
-      <module name="apiGateway" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="apiGateway.ApiGatewayApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="apiGateway.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,6 +210,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RegisterservicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="registerservices" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="registerservices.registerservices.RegisterservicesApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="registerservices.registerservices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
       <module name="UserServices" />
@@ -237,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ConfigServerApplication" />
         <item itemvalue="Spring Boot.UserServicesApplication" />
-        <item itemvalue="Spring Boot.ApiGatewayApplication" />
-        <item itemvalue="Spring Boot.RatingservicesApplication" />
         <item itemvalue="Spring Boot.HotelservicesApplication" />
+        <item itemvalue="Spring Boot.RatingservicesApplication" />
+        <item itemvalue="Spring Boot.RegisterservicesApplication" />
+        <item itemvalue="Spring Boot.ConfigServerApplication" />
       </list>
     </recent_temporary>
   </component>
