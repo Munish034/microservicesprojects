@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-261.24374.151">
+    <data-source name="msratingservices@localhost" uuid="afe8e6b7-47c8-4cd1-9905-1ae8e61aa65f">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="mshotelservices@localhost" uuid="61f19ccc-3062-4d87-a9b7-a1c86dd713c1">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
